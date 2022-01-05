@@ -1,12 +1,13 @@
 Support
 =======
 
-This documentation is a guideline about support for my software or libraries developed by me.
+This documentation is a guideline about support for my software or libraries.
 
 For all
 -------
 
-I have not always respond to your contact by some reason:
+I have not always respond to your contact by some reason.
+For examples:
 
 - I have down time by mental disorders (Clinical Depression)
 - I have no times for writing English message (I'm not native English speaker)
@@ -32,13 +33,13 @@ This thing includes no responses, no actions, or do nothings to your any reports
 If you think "this project does not have active development" to my projects, **your best is fork it**.
 I'm always welcome to fork my project under the respect of original licenses.
 
-For native non-English speakers
--------------------------------
+For non-English speakers
+------------------------
 
 **Please send message to me by English!**
 
 In GitHub, English is defact standard language to communications.
-If you don't use English, **I can't read and respond your problem or bug reports**.
+And if you don't use English, **I can't read and respond your problem or bug reports**.
 
 If you can't use English as native speakers, you don't need about afraid to use English.
 We can use [DeepL](https://www.deepl.com/translator) or [Google Translate](https://translate.google.co.jp/).

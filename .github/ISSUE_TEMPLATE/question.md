@@ -20,4 +20,4 @@ If your question is the unexpected behavior by our program, you should send as b
 ### Agreements
 
 - [ ] You agree our [Code of Conduct](https://github.com/nyarla/.github/blob/main/CODE_OF_CONDUCT.md) for our safe community.
-- [ ] You agree our [Support policy]((https://github.com/nyarla/.github/blob/main/SUPPORT.md).
+- [ ] You agree our [Support policy](https://github.com/nyarla/.github/blob/main/SUPPORT.md).

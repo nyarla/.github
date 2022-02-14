@@ -1,4 +1,4 @@
-# Support
+# Support policy
 
 This documentation is a guideline for support about my software or libraries.
 

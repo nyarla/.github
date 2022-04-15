@@ -5,7 +5,8 @@ rules:
       - warning
       - error
   alex:
-    allow: []
+    allow:
+      - japanese
   common-misspellings:
     ignore: []
   stop-words:

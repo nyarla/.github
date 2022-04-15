@@ -11,8 +11,7 @@ For examples:
 - I have no times for writing English message (I'm not native English speaker)
 - Time zone difference (I'm living in Japan. that time zone is `+09:00`)
 
-If you'd like to respond your message from me.
-You should send me message via public internet services (ex. Twitter or GitHub)
+If you'd like to respond your message from me, You should send me message via public internet services (ex. Twitter or GitHub)
 
 ## For developers
 
@@ -25,8 +24,8 @@ But if you'd like to getting supports from me, you could select these actions:
 - Send me feature request via GitHub Issue
 - Or make pull request and send to my repository
 
-If you think "this project does not have active development" to my projects, **your best is fork it**.
-I'm always welcome to fork my project under the respect of original licenses.
+If you think "this project does not have active development" on my projects, **your best action is fork it**.
+I'm always welcome to fork my project with the respect of original licenses.
 
 ## For non-English speakers
 
@@ -34,6 +33,7 @@ I'm always welcome to fork my project under the respect of original licenses.
 
 In GitHub, English is defact standard language to communications.
 And if you don't use English, **I can't read and respond your problem or bug reports**.
+(I native Japanese speaker, but I can read and write English a bit.)
 
 If you can't use English as native speakers, you don't need to afraid about using English.
 We can use [DeepL](https://www.deepl.com/translator) or [Google Translate](https://translate.google.co.jp/).

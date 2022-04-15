@@ -1,25 +1,25 @@
 # Contribuer License Agreements
 
-The agreements of your contributed code.
+- The agreements of your contributed code.
 
-## What you must agreed if you contribute to our code base.
+## What you must agreed if you contribute to our codes.
 
-1. Your contributed code under same license our code base.
-2. Your copyrights are yours, but you agree to allow your code use in our code base or license.
-3. You agree to allow the change license of code base by ours or yours.
+1. Your contributed codes under same license our code base.
+2. Your copyrights are yours, but you permit to using your contributed codes on our code base.
+3. You permit to changing the license about your contirbited codes by ours.
 
-### Why we're required to these agreements when your contribution.
+## Why we wants to these permissions about your contributed code.
 
 ### 1. Simplify code licensing
 
-We want to avoid conflict license your contributed code, and make licensing simple and clear.
+We want to avoid conflict license about your contributed codes, and make license as simple and clear.
 
 ### 2. Avoiding copyright issues
 
-Some contries acts defined strong copyrights are automatic applied who write code.
-In that case, we're required to your permissions for using your code.
+Some contries acts defined strong copyrights who write codes, and automatic applied to these.
+In this case, we needs to your permissions about using your contributed codes.
 
 ### 3. Licensing strategy for the future
 
-In some cases, we change to other licenses is better result for our code base on the future.
-Because we need to your agrees of change the license after the your contribution.
+In some cases, change the license of our code base is better result at the future.
+By this reason, We needs to your permission about change code license after your contirbution.

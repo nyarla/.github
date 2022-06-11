@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: Feature Request
 about: Create a request of new features
 title: "[request]: "
 label: request

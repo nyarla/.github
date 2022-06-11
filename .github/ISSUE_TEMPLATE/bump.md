@@ -1,18 +1,18 @@
 ---
-name: Question
-about: Tell us your question
-title: "[question]: "
-label: question
+name: Bump
+about: Create a request of bump dependencies or supported version.
+title: "[bump]: "
+label: bump
 ---
 
-**What's it your want to know?**
+**What's updated library or software?**
 
-<!-- Please describe your question here -->
+<!-- Please describe to updated new of library or software -->
 
 <!-- 
 NOTE:
 
-if you want to send us  your question,
+if you want to send us your bump request,
 we think of you agreed our Code of Conduct and Support Policy.
 
 And you can see our Code of Conduct and Support Policy is here:
